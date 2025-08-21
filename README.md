@@ -29,8 +29,8 @@ Iris_Flower_Classification/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/Iris_Flower_Classification.git
-cd Iris_Flower_Classification
+git clone [https://github.com/Niranjankumar6108/GUVI_HCL_Internship_Project2.git].git
+cd GUVI_HCL_Internship_Project2
 ```
 
 ### 2. Create Virtual Environment (Optional)
@@ -90,6 +90,6 @@ jupyter notebook Iris_Flower_Classification.ipynb
 ---
 
 ## 👨‍💻 Author
-**Your Name**  
-(Your Roll No / Course / College Name)
+**Niranjan Kumar**  
+Roll No: 2312res418
 
