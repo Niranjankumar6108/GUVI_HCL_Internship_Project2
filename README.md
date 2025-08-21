@@ -15,7 +15,7 @@ The notebook demonstrates **data preprocessing, model training, evaluation, and 
 
 ## 📂 Repository Structure
 ```
-Iris_Flower_Classification/
+GUVI_HCL_Internship_Project2/
 │── Iris_Flower_Classification.ipynb   # Jupyter Notebook with complete code
 │── README.md                          # Project Documentation
 │── requirements.txt                   # Dependencies list
