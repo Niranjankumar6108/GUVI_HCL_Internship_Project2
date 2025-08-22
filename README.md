@@ -78,7 +78,7 @@ jupyter notebook Iris_Flower_Classification.ipynb
 ---
 
 ## 🎯 Deliverables
-1. **Presentation File** (`.pptx` or `.pdf`)  
+1. **Presentation File** (`.pdf`)  
 2. **GitHub Repository Link** with clean structure
 
 ---
